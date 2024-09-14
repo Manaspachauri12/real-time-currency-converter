@@ -20,7 +20,7 @@ A simple and intuitive web-based currency converter that allows users to convert
 => Prerequisites
 
 - A modern web browser (e.g., Chrome, Firefox, Edge).
-- An API key from [ExchangeRate-API](https://www.exchangerate-api.com/) (replace `'YOUR_API_KEY'` in `script.js` with your actual API key).
+- An API key from [ExchangeRate-API](https://www.exchangerate-api.com/) 
 
 ### Installation
 
